@@ -3,4 +3,4 @@
 
 你可以在这里找到 MiraiMC 相关的开源项目。
 
-外部链接：[MCBBS](https://www.mcbbs.net/thread-1207462-1-1.html) | [bStats](https://bstats.org/plugin/bukkit/MiraiMC/11534)
+外部链接：[bStats](https://bstats.org/plugin/bukkit/MiraiMC/11534)
